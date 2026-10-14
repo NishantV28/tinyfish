@@ -1,0 +1,7 @@
+name = "scout-alias-shield-worker"
+main = "email_worker.js"
+compatibility_date = "2026-01-01"
+
+[vars]
+SCOUT_BACKEND_URL = "https://api.myscout.id"
+WEBHOOK_SECRET = "scout_edge_secret_2026"
